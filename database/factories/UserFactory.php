@@ -1,3 +1,4 @@
+/*hi user */
 <?php
 
 use Faker\Generator as Faker;

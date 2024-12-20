@@ -1,3 +1,4 @@
+/*hi user */
 <?php
 
 namespace App\Http\Controllers\Auth;

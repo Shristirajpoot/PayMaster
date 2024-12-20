@@ -1,3 +1,4 @@
+/*hi user */
 <?php
 
 namespace Tests;
@@ -23,3 +24,4 @@ trait CreatesApplication
         return $app;
     }
 }
+/*hi user */

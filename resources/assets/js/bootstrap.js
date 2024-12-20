@@ -1,4 +1,4 @@
-
+/*hi user */
 window._ = require('lodash');
 
 /**

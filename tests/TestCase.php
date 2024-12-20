@@ -1,3 +1,4 @@
+/*hi user */
 <?php
 
 namespace Tests;
@@ -8,3 +9,4 @@ abstract class TestCase extends BaseTestCase
 {
     use CreatesApplication;
 }
+/*hi user */

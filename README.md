@@ -21,4 +21,4 @@ Video demonstrating the example https://www.youtube.com/watch?v=WOsXayVmnoc
 
 ##Additional Notes
 Make sure you have a PayPal Developer account to get the CLIENT_ID and SECRET.
-If you encounter any issues during setup, check the logs or refer to the Laravel documentation.
+If you encounter any issues during setup, check the logs or refer to the Laravel documentation
